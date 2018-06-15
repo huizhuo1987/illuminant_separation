@@ -12,7 +12,10 @@ huizhuo1987@gmail.com
  
 Copy rights reserved by the authors listed above.
 
-The code provided here includes the demo.m script to show the lighting separation results on two and three lights case
+The code provided here includes the demo.m script to show the lighting separation results on two and three lights case.
 
-We also provide the data used in the paper in the .mat files and you may also download the original raw images via
+We also include the extern code base to determine the illumination coefficients for the three light case, and please cite the paper
+when you use the code. 
+
+We also provide the data used in the paper in the .mat files and you can also download the original raw images via
 
