@@ -1,4 +1,4 @@
-Code for Illuminant Spectra-based Source Separation Using Flash Photography
+# Illuminant Spectra-based Source Separation Using Flash Photography
 
 This code is based on the algorithm proposed in the paper
 "Illuminant Spectra-based Source Separation Using Flash Photographye", CVPR 2018
